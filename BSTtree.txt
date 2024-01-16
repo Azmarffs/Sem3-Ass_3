@@ -1,0 +1,9 @@
+root /root
+PatientData /root/
+Logs /root/
+PatientHome /rootroot/PatientData/
+PatientA /rootroot/PatientData/PatientHome/
+PatintA.txt /rootroot/PatientData/PatientHome/PatientA
+PatientB /rootroot/PatientData/PatientHome/PatientA/
+PatientB.txt /rootroot/PatientData/PatientHome/PatientA/PatientB/
+PatientB.txt /rootroot/PatientHome/PatientData/PatientA/PatientA.txt/
